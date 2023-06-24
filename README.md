@@ -36,17 +36,22 @@ The T-Shirt Customizer is a web application that allows users to create customiz
 
 ```bash
 git clone https://github.com/your-username/t-shirt-customizer.git
+```bash
 
 ### Install the dependencies:
 
+```bash
 cd t-shirt-customizer
 npm install
+```bash
 
 ### Usage 
 
 1. Start the development server:
 
+```bash
 npm run dev
+```bash
 
 2. Open your web browser and visit http://localhost:3000 to access the application.
 
