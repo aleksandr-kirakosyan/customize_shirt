@@ -1,6 +1,7 @@
 # T-Shirt Customizer
 
-![Preview](./preview.png)
+![Preview](./preview_1.png)
+![Preview](./preview_2.png)
 
 ## Description
 
